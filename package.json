@@ -4,7 +4,7 @@
   "description": "Assessment for Full Stack Development  Task  The assessment will consist of two tasks. Each of them tests your capability to manage time  and your expertise in full-stack development.  1. Create an HTML E-Mailer:  Require clickable slices that can be redirect the user to the links attached. The reference has  been provided for the final look of the mailer. Assets: Click Here  This task will be evaluated based on the following criteria:  A. Time  B. Code Format  The reference for the HTML mailer is attached in the mail sent to you.  2. Create and animate two sections of a website:  This task requires you to make these sections responsive for a standard mobile screen.  Landing Section and Sidebar- You have been provided with a Figma file consisting of the  layout. You are required to construct the layout and make the webpage responsive as per  the prototype given below.  Figma File: Click Here  This task will be evaluated based on the following criteria:  A. Time  B. Code Format  C. Accuracy in replicating the Design  D. Responsiveness  Kindly note that you will be provided with the necessary assets to build the aforementioned  sections of a sample website",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
