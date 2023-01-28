@@ -16,6 +16,6 @@ app.get('/api/v1/heartbeat', (req, res) => {
     });
 });
 
-app.listen(5000, () => {
-    console.log("Server is listening at port 5000");
+app.listen(5001, () => {
+    console.log("Server is listening at port 5001");
 });
