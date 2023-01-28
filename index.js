@@ -5,7 +5,7 @@ const app = express();
 app.get('/', (req, res) => {
     res.status(200).json({
         status: true,
-        message: "success using CI/CD"
+        message: "Server is active"
     })
 });
 
